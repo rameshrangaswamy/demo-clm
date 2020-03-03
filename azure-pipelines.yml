@@ -6,6 +6,9 @@
 # A pipeline with no CI trigger
 trigger: none
 
+pr:
+- develop
+
 pool:
   vmImage: 'ubuntu-latest'
 
