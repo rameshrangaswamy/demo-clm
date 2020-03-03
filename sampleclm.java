@@ -6,4 +6,4 @@
 	Last changed date:	12-Sept-19
 */
 //Sample script
-test1
+test2
